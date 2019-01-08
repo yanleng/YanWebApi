@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9C588FFC-D8BF-468B-8607-44B0514F5279}|Default">
+  <MonoDevelop.Ide.ItemProperties.YanWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YanWebApi/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="YanWebApi/Models/Employee.cs" Line="14" Column="6" />
+      <File FileName="YanWebApi/Controllers/EmployeeController.cs" Line="59" Column="31" />
+      <File FileName="YanWebApi/Program.cs" Line="25" Column="1" />
+      <File FileName="YanWebApi/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

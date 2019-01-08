@@ -1,0 +1,13 @@
+/Users/yanleng/Projects/YanWebApi/YanWebApi/bin/Debug/netcoreapp2.2/YanWebApi.deps.json
+/Users/yanleng/Projects/YanWebApi/YanWebApi/bin/Debug/netcoreapp2.2/YanWebApi.runtimeconfig.json
+/Users/yanleng/Projects/YanWebApi/YanWebApi/bin/Debug/netcoreapp2.2/YanWebApi.runtimeconfig.dev.json
+/Users/yanleng/Projects/YanWebApi/YanWebApi/bin/Debug/netcoreapp2.2/YanWebApi.dll
+/Users/yanleng/Projects/YanWebApi/YanWebApi/bin/Debug/netcoreapp2.2/YanWebApi.pdb
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.csproj.CoreCompileInputs.cache
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.RazorAssemblyInfo.cache
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.RazorAssemblyInfo.cs
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.AssemblyInfoInputs.cache
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.AssemblyInfo.cs
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.RazorTargetAssemblyInfo.cache
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.dll
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.pdb
