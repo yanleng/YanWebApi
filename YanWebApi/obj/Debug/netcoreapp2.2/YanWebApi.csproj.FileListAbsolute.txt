@@ -11,3 +11,4 @@
 /Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.RazorTargetAssemblyInfo.cache
 /Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.dll
 /Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.pdb
+/Users/yanleng/Projects/YanWebApi/YanWebApi/obj/Debug/netcoreapp2.2/YanWebApi.csprojAssemblyReference.cache

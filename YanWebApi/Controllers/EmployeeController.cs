@@ -5,11 +5,13 @@ using YanWebApi.Models;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Cors;
 
 namespace YanWebApi.Controllers
 {
     [Route("api/employee")]
     [ApiController]
+    [EnableCors("MyPolicy")]
     public class EmployeeController : ControllerBase
     {
         private readonly YanDBContext _context;
