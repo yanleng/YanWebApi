@@ -4,9 +4,24 @@
     Welcome to {{ title }}!
   </h1>
 
-  <h1>Application says what?</h1>
+  <h1>List of Employees</h1>
   <ul>
-    <li *ngFor="let value of apiValues">{{value}}</li>
+    <li *ngFor="let value of apiValues">{{value.firstName}}</li>
   </ul>
+
+  <div>
+      <label>Summary: </label>
+      <select>
+          <option value="0">--All--</option>
+          <option *ngFor="let employee of apiValues" value={{employee}}>
+              {{employee.firstName}}
+          </option>
+      </select>
+
+      <h1>My Application</h1>
+      <select [(ngModel)]="selectedValue">
+          <option *ngFor="let c of countries" [ngValue]="c">{{c.name}}</option>
+      </select>
+  </div>
 
   <router-outlet></router-outlet>

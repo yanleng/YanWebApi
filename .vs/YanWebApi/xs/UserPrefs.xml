@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{9C588FFC-D8BF-468B-8607-44B0514F5279}|Default">
   <MonoDevelop.Ide.ItemProperties.YanWebApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="YanWebApi/Controllers/EmployeeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YanWebApi/Client/src/app/app.component.html">
     <Files>
-      <File FileName="YanWebApi/Client/src/app/app.component.html" Line="6" Column="5" />
+      <File FileName="YanWebApi/Client/src/app/app.component.html" Line="25" Column="9" />
       <File FileName="YanWebApi/Client/src/app/app.module.ts" Line="18" Column="17" />
       <File FileName="YanWebApi/Client/src/app/app.component.ts" Line="11" Column="23" />
-      <File FileName="YanWebApi/Startup.cs" Line="34" Column="13" />
-      <File FileName="YanWebApi/Program.cs" Line="12" Column="2" />
-      <File FileName="YanWebApi/Controllers/EmployeeController.cs" Line="14" Column="29" />
+      <File FileName="YanWebApi/Startup.cs" Line="35" Column="11" />
+      <File FileName="YanWebApi/Controllers/EmployeeController.cs" Line="27" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
